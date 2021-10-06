@@ -4,4 +4,6 @@ Created a simple ReactApp to help me understand the following
 // made use of the state system 
 // helped understand the lifecylce events 
 
+****MAKE SURE TO ALLOW GEOLOCATION****
+
 //The app will check your region using geo location API and tell you whether its currently winter or summer. Enjoy!
