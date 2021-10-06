@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactApp-Seasons/static/css/main.187e6b5e.chunk.css",
+    "main.js": "/ReactApp-Seasons/static/js/main.a5ed1b92.chunk.js",
+    "main.js.map": "/ReactApp-Seasons/static/js/main.a5ed1b92.chunk.js.map",
+    "runtime-main.js": "/ReactApp-Seasons/static/js/runtime-main.21d42fd3.js",
+    "runtime-main.js.map": "/ReactApp-Seasons/static/js/runtime-main.21d42fd3.js.map",
+    "static/js/2.8e7db793.chunk.js": "/ReactApp-Seasons/static/js/2.8e7db793.chunk.js",
+    "static/js/2.8e7db793.chunk.js.map": "/ReactApp-Seasons/static/js/2.8e7db793.chunk.js.map",
+    "index.html": "/ReactApp-Seasons/index.html",
+    "static/css/main.187e6b5e.chunk.css.map": "/ReactApp-Seasons/static/css/main.187e6b5e.chunk.css.map",
+    "static/js/2.8e7db793.chunk.js.LICENSE.txt": "/ReactApp-Seasons/static/js/2.8e7db793.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21d42fd3.js",
+    "static/js/2.8e7db793.chunk.js",
+    "static/css/main.187e6b5e.chunk.css",
+    "static/js/main.a5ed1b92.chunk.js"
+  ]
+}
